@@ -1,4 +1,4 @@
-1 - Scrivere un controller il quale dovrà esporre un API 
+1 - Scrivere un controller ( Spring ) il quale dovrà esporre un API 
     che deve avere i seguenti costraint:
     IN->Accetta un parametro mandatorio 'routeKey' di tipo String
         Questo parametro se uguale a 'DimensionOnE' restituirà come outpu la seguente stringa:
